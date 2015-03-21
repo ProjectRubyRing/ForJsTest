@@ -1,2 +1,2 @@
-# ForJsTest
-ForJavascriptTest
+# Javascriptのテスト用プロジェクト
+JavaScriptのテスト用プロジェクトです。
